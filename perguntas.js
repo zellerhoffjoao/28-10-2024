@@ -6,7 +6,7 @@ criaCartao(
 
 
 
-CriaCartao(
+criaCartao(
     'Futebol',
     'Qual é o maior artilheiro da seleção brasileira?',
     'Neymar'
@@ -14,7 +14,7 @@ CriaCartao(
 
 
 
-CriaCartao(
+criaCartao(
     'Futebol',
     'Qual é o melhor jogador do mundo pós Pelé?',
     'Cristiano Ronaldo',
